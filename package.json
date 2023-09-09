@@ -9,5 +9,8 @@
         "start": "node index.js",
         "build": "ng build --prod"
 
+    },
+    "engines": {
+        "node": "18.12.1"
     }
 }
